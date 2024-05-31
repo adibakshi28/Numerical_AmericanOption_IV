@@ -4,6 +4,10 @@
 
 This project is a VBA Excel application designed to calculate the implied volatility of American options using numerical methods. It includes functions for American put option pricing and implied volatility estimation, leveraging the Crank-Nicolson method and the secant method.
 
+<div style="display: flex; justify-content: space-between;">
+  <img src="ss/1.png" alt="Screenshot 1" style="width: 98%;">
+</div>
+
 ## Features
 
 - **American Option Pricing**: Utilizes numerical methods to accurately price American put options.
